@@ -1,6 +1,6 @@
 import React from 'react'
 
-let arr = ["relativeListItem1", "relativeListItem2", "relativeListItem3", "relativeListItem4", "relativeListItem5",]
+let arr = ["relativeListItem1", "relativeListItem2", "relativeListItem3", "relativeListItem4", "relativeListItem5"]
 const App = () => {
   return (
     <div id="main">
